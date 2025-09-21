@@ -22,7 +22,7 @@ A professional, standalone desktop application for batch compressing images (JPE
 - **No Python Required**: The `.exe` includes all dependencies.
 
 ## Usage
-1. Download `ImageCompressorPro.exe` from the [Releases](https://github.com/sezanX/ImageCompressorPro/releases) section or a provided link.
+1. Download `ImageCompressorPro.exe` from the [Releases](https://github.com/sezanX/ImageCompressor-tools/releases/tag/v-1.0) section or a provided link.
 2. Double-click to run the `.exe` (no installation needed).
 3. Click "Browse" to select an **input folder** containing images (JPEG, PNG, WebP).
 4. Click "Browse" to select an **output folder** for compressed images.
